@@ -1,8 +1,5 @@
 # About Me:
-im working on vulkan cpp<br>
-
-
-
+C++ Rust programer
 
 # Tech Stack:
 ## Languages
