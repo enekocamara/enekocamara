@@ -1,15 +1,15 @@
 # About Me:
-C++ Rust programmer
-
-# Tech Stack:
-## Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
 My main languages are C/C++ and Rust. I started with C, makefiles and vim, which taught me the fundamentals of programming ([some of the projects](https://github.com/enekocamara/cursus)). Since then i moved on to C++, Rust and python. I learned at urduliz-42 where we mainly used C/C++98 in our projects.<br>
 Now I use the lastest version of C++ for my projects, same for python and use vscode, visual studio 2022 community or neovim(if working with unix system).
 C++23 is my go to for graphics application, as I'm trying to learn the basics of graphics programming for personal projects. Currently I'm writing a [Graphics Library](https://github.com/enekocamara/Syris) in C++23 and CMake.
 For the rest I use rust, though its mainly for CLI applications(clap) and server-backend requests(warp, tokio, serde). Currently I'm writting a [build/dependency manager](https://github.com/enekocamara/asharis/tree/manager_refactor) in Rust.
 Python is mainly for running multiplatform scripts and for simple tasks like data visualization.
+
+# Tech Stack:
+## Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+
 
 ## Experience using
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=flat&logo=packer&logoColor=%2302A8EF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
