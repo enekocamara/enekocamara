@@ -9,7 +9,7 @@ My main languages are C/C++ and Rust. My first language was C (with makefiles an
 I use the lastest version of C++ for my projects. I use vscode, visual studio 2022 community or neovim(if working with unix system).
 
 ### C && C++
-My main projects using C and C++ are: a bash program copy(implemented only some of the commands, the rest using the ones already in the system), a simple CPU ray tracer, a IRC server and a simple [graphics library](https://github.com/enekocamara/Syris) over OpenGL.
+My main projects using C and C++ are: a bash program copy(implemented only some of the commands, the rest using the ones already in the system), a simple CPU ray tracer, a [IRC server](https://github.com/Llopeando/irc42u) and a simple [graphics library](https://github.com/enekocamara/Syris) over OpenGL.
 
 ### Rust
 I use rust mainly for CLI applications(clap) and server backend to handle requests(warp, tokio, serde). Currently I use it to write a [build/dependency manager](https://github.com/enekocamara/asharis/tree/manager_refactor)
