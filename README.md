@@ -9,13 +9,14 @@ My main languages are C and C++. I'm learning to be proficient in Rust, and usin
 My first language was C, which taught me the fundamentals of CS. Since then i moved on to C++, Rust and python.
 
 ### C && C++
-My main projects using C and C++ are a bash program copy, a CPU simple ray tracer and a IRC server.
+My main projects using C and C++ are: a bash program copy, a simple CPU ray tracer, a IRC server and a simple graphics library over OpenGL.
 
 ### Rust
-I use rust mainly for CLI applications (clap) and server backend to handle requests(warp, tokio, serde).
+I use rust mainly for CLI applications (clap) and server backend to handle requests(warp, tokio, serde). Currently use it to write a build/dependency manager
+for my c++ projects that uses CMake as a build system.
 
 ### Python
-I use it to visualize data, specially performance of my other apps. (matplotlib, pandas, numpy) and creating simple applications.
+I use it mainly for running multiplatform scripts and for simple tasks like data visualization.
 
 ## support
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=flat&logo=packer&logoColor=%2302A8EF)
