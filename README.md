@@ -1,12 +1,13 @@
 # About Me:
-C++ Rust programer
+C++ Rust programmer
 
 # Tech Stack:
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
-My main languages are C and C++. I'm learning to be proficient in Rust, and using python as a support language.
+My main languages are Rust and C++/C. I'm learning to be proficient in Rust, and using python as a support language.
 My first language was C, which taught me the fundamentals of CS. Since then i moved on to C++, Rust and python.
+I use the last version of C++ I can for my projects.
 
 ### C && C++
 My main projects using C and C++ are: a bash program copy, a simple CPU ray tracer, a IRC server and a simple graphics library over OpenGL.
