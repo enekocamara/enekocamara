@@ -5,7 +5,7 @@ C++ Rust programmer
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
-My main languages are C/C++ and Rust. My first language was C (with makefiles and vim), which taught me the fundamentals of CS. Since then i moved on to C++, Rust and python.
+My main languages are C/C++ and Rust. My first language was C (with makefiles and vim), which taught me the fundamentals of CS ([some of the projects](https://github.com/enekocamara/cursus)). Since then i moved on to C++, Rust and python.
 I use the last version of C++ I can for my projects. I use vscode, visual studio 2022 community or neovim(if working with unix system).
 
 ### C && C++
