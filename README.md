@@ -26,7 +26,7 @@ A web page that lets users play local/multiplayer pong games, lets them register
 The project consisted of angular for frontend, and for the backend we used docker with containers that run django, postgres and nginx. We did it between 4 people.
 
 ## Other older projects
-[minishell](https://github.com/Llopeando/minishell42u) implemented only some of the commands, the rest using the ones already in the system.
+[minishell](https://github.com/Llopeando/minishell42u) implemented only some of the commands, the rest using the ones already in the system.<br>
 [IRC server](https://github.com/Llopeando/irc42u)
 
 ## Socials:
