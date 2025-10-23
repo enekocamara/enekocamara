@@ -1,9 +1,8 @@
 # About Me:
 
-My main languages are C/C++ and Rust.<br> I started with C, makefiles and vim, which taught me the fundamentals of programming ([some of the projects](https://github.com/enekocamara/cursus)). Since then i moved on to C++, Rust and python. I learned at urduliz-42 where we mainly used C/C++98 in our projects.<br>
-Now I use the lastest version of C++ for my projects, same for python and use vscode, visual studio 2022 community or neovim(if working with unix system).
-C++23 is my go to for graphics application, as I'm trying to learn the basics of graphics programming for personal projects. Currently I'm writing a [Graphics Library](https://github.com/enekocamara/Syris) in C++23 and CMake.
-For the rest I use rust, though its mainly for CLI applications(clap) and server-backend requests(warp, tokio, serde). Currently I'm writting a [build/dependency manager](https://github.com/enekocamara/asharis/tree/manager_refactor) in Rust.
+My main languages are C/C++ and Rust.
+I use C++ or rust for my main projects with vscode, visual studio 2022 community or neovim(if working with unix system).
+For CLI applications(clap) and server-backend requests(warp, tokio, serde) I prefer Rust.
 Python is mainly for running multiplatform scripts and for simple tasks like data visualization.
 
 # Tech Stack:
