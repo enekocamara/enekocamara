@@ -5,7 +5,6 @@ I use C++ or rust for my main projects and use  vscode, visual studio 2022 commu
 For CLI applications(clap) and server-backend requests(warp, tokio, serde) I preffer Rust.
 Python is mainly for running multiplatform scripts and for simple tasks like data visualization.
 
-# Tech Stack:
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
