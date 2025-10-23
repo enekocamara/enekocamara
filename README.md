@@ -1,8 +1,8 @@
 # About Me:
 
 My main languages are C/C++ and Rust.
-I use C++ or rust for my main projects with vscode, visual studio 2022 community or neovim(if working with unix system).
-For CLI applications(clap) and server-backend requests(warp, tokio, serde) I prefer Rust.
+I use C++ or rust for my main projects and use  vscode, visual studio 2022 community or neovim(if working with unix system).
+For CLI applications(clap) and server-backend requests(warp, tokio, serde) I preffer Rust.
 Python is mainly for running multiplatform scripts and for simple tasks like data visualization.
 
 # Tech Stack:
