@@ -15,7 +15,7 @@ Python is mainly for running multiplatform scripts and for simple tasks like dat
 ## Main Projects
 ### [Graphics Library](https://github.com/enekocamara/Syris) (Work in progress)
 A c++23 graphics library that abstracts opengl (vulkan in the future) to make simple graphics application faster. Its mainly for learning purposes and personal use only.
-### [Build/Dependency manager](https://github.com/enekocamara/asharis/tree/manager_refactor) (Work in progress)
+### [Build/Dependency manager](https://github.com/enekocamara/core) (Work in progress)
 A build/dependency manager to manage personal projects faster and simpler. Its a terminal application written in rust that generates CMakeLists files for building and manages
 dependencies with github or curl. The project structure is described using yaml. All the dependencies are stored per project similar to node_modules. Im using it to build/manage the graphics library and also
 start new projects that use it as a dependency.
