@@ -28,6 +28,7 @@ The project consisted of angular for frontend, and for the backend we used docke
 ## Other older projects
 [minishell](https://github.com/Llopeando/minishell42u) implemented only some of the commands, the rest using the ones already in the system.<br>
 [IRC server](https://github.com/Llopeando/irc42u)
+[Cursus](https://github.com/enekocamara/cursus)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eneko-camara-palma-9a5352235/) 
