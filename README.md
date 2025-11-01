@@ -14,7 +14,7 @@ Python is mainly for running multiplatform scripts and for simple tasks like dat
 
 ## Main Projects
 
-### [Minecraft Mod](https://github.com/enekocamara/minecraft_mod) (Work in progress (ongoing))
+### [Minecraft Mod](https://github.com/enekocamara/Elaia) (Work in progress (ongoing))
 Making my first minecraft mod. First time using java. Im using fabric for the API. Currently it aims to change minecraft world generation by prebaking a worldmap with all the data. Right now im working on tectonic plates and how they interact with one another.
 ### [Graphics Library](https://github.com/enekocamara/Syris) (Work in progress (paused))
 A c++23 graphics library that abstracts opengl (vulkan in the future) to make simple graphics application faster. Its mainly for learning purposes and personal use only.
