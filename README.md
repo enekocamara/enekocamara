@@ -18,7 +18,7 @@ Python is mainly for running multiplatform scripts and for simple tasks like dat
 Making my first minecraft mod. First time using java. Im using fabric for the API. Currently it aims to change minecraft world generation by prebaking a worldmap with all the data. Right now im working on tectonic plates and how they interact with one another.
 ### [Graphics Library](https://github.com/enekocamara/Syris) (Work in progress (paused))
 A c++23 graphics library that abstracts opengl (vulkan in the future) to make simple graphics application faster. Its mainly for learning purposes and personal use only.
-### [Build/Dependency manager](https://github.com/enekocamara/core) (Work in progress (paused))
+### [Build/Dependency manager](https://github.com/enekocamara/core) (Work in progress (ongoing))
 A build/dependency manager for c++. Its a terminal application written in rust that generates CMakeLists files for building and manages
 dependencies with github or curl. The project structure is described using yaml. All the dependencies are stored per project similar to node_modules. Im using it to build/manage Syris  and  new projects.
 ### [Pong Web Page](https://github.com/ualcibar/trancendence) (Finished mid 2024)
